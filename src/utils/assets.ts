@@ -1,17 +1,15 @@
 // images --
-const PhoneIcon = require(`../assets/images/phone-icon.png`);
-const GetStartedPageImage = require(`../assets/images/get-started-pic.png`);
-const LoginPageImage = require(`../assets/images/login-svg.png`);
-const RSALogoWhite = require(`../assets/images/RSA_logo-white.png`);
-const CirclesLoginSVG = require(`../assets/images/circles-gray-svg.png`);
+const AddTestamentBG = require(`../assets/images/addTestamentBG.png`);
+const LightModeBG = require(`../assets/images/lightModeBg.png`);
+const Logo = require(`../assets/images/logo.png`);
+const ViewTestamentBG = require(`../assets/images/testamentBG.png`);
 
 // other images here
 
 // exports
 export const assets = {
-  PhoneIcon,
-  GetStartedPageImage,
-  LoginPageImage,
-  RSALogoWhite,
-  CirclesLoginSVG,
+  LightModeBG,
+  Logo,
+  ViewTestamentBG,
+  AddTestamentBG,
 };
