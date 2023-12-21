@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   },
   label: {
     color: colors.DARK,
-    fontFamily: fonts.MONTSERRAT_MEDIUM,
+    fontFamily: fonts.POPPINS_MEDIUM,
     fontSize: 14,
     backgroundColor: 'transparent',
     width: '100%',
@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     alignItems: 'flex-start',
     justifyContent: 'center',
     color: colors.PRIMARY,
-    fontFamily: fonts.MONTSERRAT_REGULAR,
+    fontFamily: fonts.POPPINS_REGULAR,
     backgroundColor: 'transparent',
     fontSize: 15,
   },

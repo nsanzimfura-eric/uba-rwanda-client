@@ -1,19 +1,21 @@
-const MONTSERRAT_BLACK = 'Montserrat-Black';
-const MONTSERRAT_LIGHT = 'Montserrat-Light';
-const MONTSERRAT_BOLD = 'Montserrat-Bold';
-const MONTSERRAT_SEMI_BOLD = 'Montserrat-SemiBold';
-const MONTSERRAT_THIN = 'Montserrat-Thin';
-const MONTSERRAT_REGULAR = 'Montserrat-Regular';
-const MONTSERRAT_MEDIUM = 'Montserrat-Medium';
-const MONTSERRAT_EXTRA_BOLD = 'Montserrat-ExtraBold';
+const POPPINS_BLACK = 'Poppins-Black';
+const POPPINS_BLACK_ITALIC = 'Poppins-BlackItalic';
+const POPPINS_ITALIC = 'Poppins-Italic';
+const POPPINS_BOLD = 'Poppins-Bold';
+const POPPINS_SEMI_BOLD = 'Poppins-SemiBold';
+const POPPINS_THIN = 'Poppins-Thin';
+const POPPINS_REGULAR = 'Poppins-Regular';
+const POPPINS_MEDIUM = 'Poppins-Medium';
+const POPPINS_EXTRA_BOLD = 'Poppins-ExtraBold';
 
 export const fonts = {
-  MONTSERRAT_BLACK,
-  MONTSERRAT_LIGHT,
-  MONTSERRAT_BOLD,
-  MONTSERRAT_SEMI_BOLD,
-  MONTSERRAT_THIN,
-  MONTSERRAT_REGULAR,
-  MONTSERRAT_MEDIUM,
-  MONTSERRAT_EXTRA_BOLD,
+  POPPINS_BLACK,
+  POPPINS_ITALIC,
+  POPPINS_BLACK_ITALIC,
+  POPPINS_BOLD,
+  POPPINS_SEMI_BOLD,
+  POPPINS_THIN,
+  POPPINS_REGULAR,
+  POPPINS_MEDIUM,
+  POPPINS_EXTRA_BOLD,
 };

@@ -72,13 +72,13 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     color: colors.PRIMARY,
-    fontFamily: fonts.MONTSERRAT_BOLD,
+    fontFamily: fonts.POPPINS_BOLD,
     fontWeight: 'bold',
   },
   labelLogin: {
     width: '100%',
     color: colors.ACCENT_DARK,
-    fontFamily: fonts.MONTSERRAT_MEDIUM,
+    fontFamily: fonts.POPPINS_MEDIUM,
     fontSize: 17,
     marginTop: 29,
     alignItems: 'flex-start',

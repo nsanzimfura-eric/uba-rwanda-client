@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     color: colors.LIGHT,
-    fontFamily: fonts.MONTSERRAT_SEMI_BOLD,
+    fontFamily: fonts.POPPINS_SEMI_BOLD,
     fontSize: 18,
     textAlign: 'center',
   },
