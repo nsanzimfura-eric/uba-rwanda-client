@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: colors.PRIMARY,
+    backgroundColor: colors.ORANGE,
   },
   buttonShort: {
     borderRadius: 5,
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 15,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: colors.PRIMARY,
+    backgroundColor: colors.ORANGE,
   },
   buttonText: {
     color: colors.LIGHT,

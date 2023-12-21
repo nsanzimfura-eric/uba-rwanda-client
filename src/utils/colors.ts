@@ -1,35 +1,32 @@
-const PRIMARY = '#064B64';
-const PRIMARY_DARK = '#03284C';
-const PRIMARY_LIGHT = '#E4F2F6';
+// SINGLE COLORS
+const ORANGE = '#D17842';
+const GRAY = '#52555A';
 const LIGHT = '#FFFFFF';
-const DARK = '#000000';
+const DARK = '#0C0F14';
+const PINK = '#422F62';
+const ERROR = '#DC3535';
+const SUCCESS = '#0AA00A';
+const WARNING = '#BCB500';
 
-const DANGER = '#FFE9E9';
-const ERROR = '#AF0000';
-const SUCCESS = '#016019';
-const BLUE = '#009DD7';
-const GRAY = '#5E5E5F';
-const GRAY_LIGHT = '#E4E4E5';
+// INHERITED COLORS
+const GRAY_DARK = '#262B33';
+const GRAY_LIGHT = '#AEAEAE';
+const PINK_LIGHT = '#242930';
 
-// ACCENTS
-const ACCENT_LIGHT = '#C4D2D0';
-const ACCENT_DARK = '#607C89';
 //
 const TRANSPARENT = 'transparent';
 
 export const colors = {
-  PRIMARY,
-  PRIMARY_DARK,
-  PRIMARY_LIGHT,
+  ORANGE,
+  GRAY,
   LIGHT,
   DARK,
-  DANGER,
+  PINK,
   ERROR,
   SUCCESS,
-  BLUE,
-  GRAY,
+  WARNING,
+  GRAY_DARK,
   GRAY_LIGHT,
-  ACCENT_LIGHT,
-  ACCENT_DARK,
+  PINK_LIGHT,
   TRANSPARENT,
 };

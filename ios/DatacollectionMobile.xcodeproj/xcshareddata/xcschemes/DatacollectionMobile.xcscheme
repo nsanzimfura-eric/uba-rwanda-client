@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "DatacollectionMobile.app"
-               BlueprintName = "DatacollectionMobile"
-               ReferencedContainer = "container:DatacollectionMobile.xcodeproj">
+               BuildableName = "UberRwanda.app"
+               BlueprintName = "UberRwanda"
+               ReferencedContainer = "container:UberRwanda.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "DatacollectionMobileTests.xctest"
-               BlueprintName = "DatacollectionMobileTests"
-               ReferencedContainer = "container:DatacollectionMobile.xcodeproj">
+               BuildableName = "UberRwandaTests.xctest"
+               BlueprintName = "UberRwandaTests"
+               ReferencedContainer = "container:UberRwanda.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DatacollectionMobile.app"
-            BlueprintName = "DatacollectionMobile"
-            ReferencedContainer = "container:DatacollectionMobile.xcodeproj">
+            BuildableName = "UberRwanda.app"
+            BlueprintName = "UberRwanda"
+            ReferencedContainer = "container:UberRwanda.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DatacollectionMobile.app"
-            BlueprintName = "DatacollectionMobile"
-            ReferencedContainer = "container:DatacollectionMobile.xcodeproj">
+            BuildableName = "UberRwanda.app"
+            BlueprintName = "UberRwanda"
+            ReferencedContainer = "container:UberRwanda.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   container: {
     width: '100%',
     flex: 1,
-    backgroundColor: colors.LIGHT,
+    backgroundColor: colors.DARK,
     padding: 24,
     gap: 18,
     alignItems: 'center',
@@ -71,13 +71,13 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 24,
-    color: colors.PRIMARY,
+    color: colors.LIGHT,
     fontFamily: fonts.POPPINS_BOLD,
     fontWeight: 'bold',
   },
   labelLogin: {
     width: '100%',
-    color: colors.ACCENT_DARK,
+    color: colors.GRAY,
     fontFamily: fonts.POPPINS_MEDIUM,
     fontSize: 17,
     marginTop: 29,

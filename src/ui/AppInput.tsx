@@ -33,7 +33,7 @@ const AppInput: FC<Props> = (props) => {
           placeholder={placeholder}
           keyboardType={keyboardType}
           style={[styles.input, props.style]}
-          placeholderTextColor={colors.ACCENT_DARK}
+          placeholderTextColor={colors.GRAY_LIGHT}
         />
       </View>
     </View>
@@ -61,13 +61,13 @@ const styles = StyleSheet.create({
     height: '100%',
     alignItems: 'flex-start',
     justifyContent: 'center',
-    color: colors.PRIMARY,
+    color: colors.DARK,
     fontFamily: fonts.POPPINS_REGULAR,
     backgroundColor: 'transparent',
     fontSize: 15,
   },
   inputBox: {
-    ...borders('s', colors.ACCENT_DARK),
+    ...borders('s', colors.GRAY_LIGHT),
     borderRadius: 5,
     height: 46,
     backgroundColor: colors.LIGHT,

@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.datacollectionmobile"
+    namespace "com.UberRwanda"
     defaultConfig {
-        applicationId "com.datacollectionmobile"
+        applicationId "com.UberRwanda"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

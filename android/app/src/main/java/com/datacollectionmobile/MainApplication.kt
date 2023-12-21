@@ -1,4 +1,4 @@
-package com.datacollectionmobile
+package com.UberRwanda
 
 import android.app.Application
 import com.facebook.react.PackageList
