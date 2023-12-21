@@ -1,43 +1,35 @@
-// Colors
-const GLASS = '#1A094A';
+const PRIMARY = '#064B64';
+const PRIMARY_DARK = '#03284C';
+const PRIMARY_LIGHT = '#E4F2F6';
 const LIGHT = '#FFFFFF';
-const PALE_LIGHT = 'rgba(255, 255, 255, 0.5)';
-const OPAQUE_LIGHT = 'rgba(255, 255, 255, 0.1)';
-const DARK = '#0C0F14';
-const PALE_DARK = 'rgba(0, 0, 0, 0.5)';
-const ORANGE = '#D17842';
-const GRAY = '#AEAEAE';
-const DARK_GRAY = '#52555A';
-const PINK = 'rgba(170, 126, 182, 0.83)';
-const DARK_PINK = 'rgba(151, 100, 179, 0.3286)';
-const SUCCESS = '#0AA00A';
-const WARNING = '#BCB500';
-const ERROR = '#DC3535';
+const DARK = '#000000';
 
-//BTNS GRADIENTS COLORS
+const DANGER = '#FFE9E9';
+const ERROR = '#AF0000';
+const SUCCESS = '#016019';
+const BLUE = '#009DD7';
+const GRAY = '#5E5E5F';
+const GRAY_LIGHT = '#E4E4E5';
 
-const BRN_GLASS_FILL = 'rgba(209, 120, 66, 0.08)';
+// ACCENTS
+const ACCENT_LIGHT = '#C4D2D0';
+const ACCENT_DARK = '#607C89';
+//
+const TRANSPARENT = 'transparent';
 
-// blur effect
-const BLUR = 40;
-
-const colors = {
-  GLASS,
+export const colors = {
+  PRIMARY,
+  PRIMARY_DARK,
+  PRIMARY_LIGHT,
   LIGHT,
-  PALE_LIGHT,
-  OPAQUE_LIGHT,
   DARK,
-  PALE_DARK,
-  ORANGE,
-  GRAY,
-  DARK_GRAY,
-  PINK,
-  DARK_PINK,
-  BRN_GLASS_FILL,
-  BLUR,
+  DANGER,
   ERROR,
   SUCCESS,
-  WARNING,
+  BLUE,
+  GRAY,
+  GRAY_LIGHT,
+  ACCENT_LIGHT,
+  ACCENT_DARK,
+  TRANSPARENT,
 };
-
-export default colors;

@@ -1,14 +1,8 @@
-# uba-rwanda-client
-
-Driver services Mobile App using React Native
-
-- Here is a short video description: [UBA(Uber)](https://drive.google.com/file/d/1p0LRC82py29wUOGx8qet7SD883DVizmf/view?usp=sharing)
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 

@@ -1,24 +1,27 @@
-import colors from '@utils/colors';
-import SignUp from '@views/auth/signup';
-import React, {FC} from 'react';
-import {StyleSheet, SafeAreaView} from 'react-native';
+import React, { FC } from 'react';
+import { StyleSheet, View, Text } from 'react-native';
+import { colors } from '@utils/colors';
+import { fonts } from '@utils/fonts';
+import Login from '@views/auth/Login';
 
 interface Props {}
 
 const App: FC<Props> = () => {
   return (
-    <SafeAreaView style={styles.container}>
-      <SignUp />
-    </SafeAreaView>
+    <View style={styles.container}>
+      <Login />
+    </View>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
-    padding: 0,
-    margin: 0,
     flex: 1,
-    backgroundColor: colors.DARK,
+    backgroundColor: colors.PRIMARY,
+    alignItems: 'center',
+    justifyContent: 'center',
+    fontFamily: fonts.MONTSERRAT_BLACK,
+    padding: 0,
   },
 });
 
